@@ -1,0 +1,27 @@
+
+
+
+.list, 
+.main-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container,
+.primary {
+    display: flex;
+    flex-direction: column;
+}
+
+.name a, 
+.list, 
+.primary {
+    align-items: center;
+    justify-content: center;
+}
+
+.secondary {
+    display: flex;
+}
+
+

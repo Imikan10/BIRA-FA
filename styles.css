@@ -1,0 +1,112 @@
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0px;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 2em;
+    color: #3acec2;
+}
+
+.list a {
+     color: #3acec2;
+}
+
+.name a {
+    color: #3a3a3a;
+    padding-left: 20px;
+    font-size: 50px;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+li a {
+    font-size: 30px;
+    padding-left: 30px;
+    padding-right: 20px;
+    text-decoration: none;
+}
+
+.primary {
+    background-color: #3acec2;
+    padding: 5px 0;
+    height: 500px;
+}
+
+.img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.img-2 {
+    height: 250px;
+    width: 1fr;
+    padding-top: 50px;
+    border-radius: 20px;
+}
+
+.img-3 {
+    height: 250px;
+    width: 1fr;
+    border-radius: 20px;
+}
+
+.fname {
+    margin-top: 35px;
+    margin-bottom: 0px;
+    color: white;
+    font-size: 50px;
+}
+
+.motto {
+    margin-top: 15px;
+    color: white;
+}
+
+.p1 {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.p2,
+.p3 {
+    padding-right: 50px;
+}
+
+.p1,
+.p3 {
+    padding-top: 50px;
+}
+
+footer {
+    background-color: #3acec2;
+    color: white;
+    height: 100px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 1em;
+}
+
+.cpryt {
+    margin-bottom: 0px;
+    padding-top: 15px;
+}
+
+.arr {
+    margin-top: 5px;
+    padding-bottom: 15px;
+}
+
